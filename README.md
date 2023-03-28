@@ -1,7 +1,6 @@
-\<h1 align="center">Hi 👋, I'm Aditya Mohod</h1>
+<h1 align="center">Hi 👋, I'm Aditya Mohod</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityamohod&label=Profile%20views&color=0e75b6&style=flat" alt="adityamohod" /> </p>
-<img align="right" alt="coding" width="200" src="https://user-
-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="200" src="https://tenor.com/en-GB/view/programmers-go-internet-technologists-researching-technologist-gif-3757206632821927062">
 
 - 🌱 I’m currently learning **Python,Sql,Machine Learing**
 
@@ -25,3 +24,4 @@ images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981e
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityamohod&show_icons=true&locale=en" alt="adityamohod" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityamohod&" alt="adityamohod" /></p>
+
